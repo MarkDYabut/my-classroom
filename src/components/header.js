@@ -77,7 +77,7 @@ const Header = ({ siteTitle }) => (
     <Content>
       <p>
         <HomeLink to="/">Home</HomeLink>
-        <NavLink to="/blog">Lessons</NavLink>
+        <NavLink to="/french">French</NavLink>
         <GitHubLink
           target="_blank"
           href="https://www.notion.so/markyabut/Classroom-ced637c2841f42c287effe52dbe48fcd"
